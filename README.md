@@ -13,7 +13,7 @@ Proceso de análisis:
 - Análisis exploratorio de datos (EDA)
 - Creación de gráficos
 - Breve análisis de correlación
-- Redacción de informe con la interpretación de los hallazgos enontrados
+- Redacción de informe con la interpretación de los hallazgos encontrados
 
 Datasets:
 Los datasets contienen información de ventas, incluyendo fecha, producto, categoría, vendedor, ubicación geográfica, meódo de pago, precio y cantidad.
